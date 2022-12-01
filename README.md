@@ -9,4 +9,4 @@ I'm ✨ Ashley Ferreira ✨ and I'm just starting to build my GitHub profile
 
 ![29er](29er.jpg)
 
-I hope to get a personal website up and running using GitHub pages soon.
+I hope to get a personal website up and running using GitHub pages over the holiday break.
