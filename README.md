@@ -7,6 +7,6 @@ I'm ✨ Ashley Ferreira ✨ and I'm just starting to build my GitHub profile
 -  Pronouns: she/her
 - 😄 Fun Fact: I used to sail competitively!
 
-![29er](29er.png)
+![29er](29er.jpg)
 
 I hope to get a personal website up and running using GitHub pages soon.
